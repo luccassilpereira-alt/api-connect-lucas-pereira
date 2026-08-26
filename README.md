@@ -1,10 +1,3 @@
-Com certeza! Como estou vendo aqui que você já está com a página do seu repositório no GitHub aberta, eu já atualizei o texto abaixo com o link exato do seu projeto.
-
-Se for editar direto aí pelo site do GitHub, é só clicar no ícone do lápis ✏️ no arquivo README.md, colar o texto todo abaixo, e depois clicar no botão verde Commit changes.
-
-Aqui está o texto prontinho para copiar:
-
-Markdown
 # API Connect - MVP
 
 ## 🎯 Objetivo da API
